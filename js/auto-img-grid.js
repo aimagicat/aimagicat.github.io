@@ -5,7 +5,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
   const container = document.querySelector("#article-container");
   if (!container) return;
-
+  console.log("auto-img-grid.js 加载");
   // 查找所有段落中的连续图片
   const paragraphs = container.querySelectorAll("p");
 
