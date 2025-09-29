@@ -209,8 +209,8 @@
     const countELement = document.getElementById('twikoo-count')
     if(!countELement) return
     twikoo.getCommentsCount({
-      envId: 'comments.aimagicat.icu',
-      region: 'us-west-1',
+      envId: 'https://comments.aimagicat.icu',
+      region: '',
       urls: [window.location.pathname],
       includeReply: false
     }).then(res => {
@@ -223,8 +223,8 @@
   const init = (el = document, path = location.pathname) => {
     twikoo.init({
       el: el.querySelector('#twikoo-wrap'),
-      envId: 'comments.aimagicat.icu',
-      region: 'us-west-1',
+      envId: 'https://comments.aimagicat.icu',
+      region: '',
       onCommentLoaded: () => {
         btf.loadLightbox(document.querySelectorAll('#twikoo .tk-content img:not(.tk-owo-emotion)'))
       },
