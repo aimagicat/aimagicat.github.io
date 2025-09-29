@@ -1,13 +1,11 @@
 // 自动图片网格布局脚本
 document.addEventListener("DOMContentLoaded", () => {
-  console.log("auto-img-grid.js 加载");
   function initAutoImgGrid() {
     // 只在文章页面执行
     if (!document.querySelector("#article-container")) return;
 
     const container = document.querySelector("#article-container");
     if (!container) return;
-    console.log("auto-img-grid.js 加载");
 
     // 查找所有段落中的连续图片
     const paragraphs = container.querySelectorAll("p");
