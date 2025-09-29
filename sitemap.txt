@@ -3,10 +3,3 @@ https://aimagicat.icu/images/logo/manifest.json
 https://aimagicat.icu/categories/index.html
 https://aimagicat.icu/tags/index.html
 https://aimagicat.icu/
-https://aimagicat.icu/tags/small-task-platform/
-https://aimagicat.icu/tags/mobile-earning/
-https://aimagicat.icu/tags/beginner-tutorial/
-https://aimagicat.icu/tags/earning-sharing/
-https://aimagicat.icu/tags/earning-app/
-https://aimagicat.icu/tags/task-platform/
-https://aimagicat.icu/categories/side-hustle/
