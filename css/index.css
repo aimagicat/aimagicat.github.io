@@ -5772,11 +5772,14 @@ pre[class*='language-'] pre > code.highlight {
 }
 .auto-img-grid img.grid-2 {
   width: calc(50% - 5px) !important;
-maxWidth480()
+}
+@media screen and (max-width: 480px) {
+  .auto-img-grid img.grid-2 {
+    width: 100% !important;
+  }
 }
 .auto-img-grid img.grid-3 {
   width: calc(33.33% - 7px) !important;
-maxWidth480()
 }
 @media screen and (max-width: 768px) {
   .auto-img-grid img.grid-3 {
@@ -5786,23 +5789,40 @@ maxWidth480()
     width: 100% !important;
   }
 }
+@media screen and (max-width: 480px) {
+  .auto-img-grid img.grid-3 {
+    width: 100% !important;
+  }
+}
 .auto-img-grid img.grid-4 {
   width: calc(25% - 8px) !important;
-maxWidth480()
 }
 @media screen and (max-width: 1024px) {
   .auto-img-grid img.grid-4 {
     width: calc(50% - 5px) !important;
   }
 }
+@media screen and (max-width: 480px) {
+  .auto-img-grid img.grid-4 {
+    width: 100% !important;
+  }
+}
 .auto-img-grid img.grid-many {
   width: calc(20% - 8px) !important;
-maxWidth1200()
-maxWidth480()
+}
+@media screen and (max-width: 1200px) {
+  .auto-img-grid img.grid-many {
+    width: calc(25% - 8px) !important;
+  }
 }
 @media screen and (max-width: 768px) {
   .auto-img-grid img.grid-many {
     width: calc(33.33% - 7px) !important;
+  }
+}
+@media screen and (max-width: 480px) {
+  .auto-img-grid img.grid-many {
+    width: calc(50% - 5px) !important;
   }
 }
 .auto-img-grid img:hover {
