@@ -2,6 +2,51 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://aimagicat.icu/p/ai-comic/creation-notes/replicate-lingyi-workflow.html</loc>
+    
+    <lastmod>2026-03-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://aimagicat.icu/p/ai-comic/creation-notes/lingyi-yaml-script.html</loc>
+    
+    <lastmod>2026-03-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://aimagicat.icu/p/ai-comic/creation-notes/lingyi-reference-to-storyboard.html</loc>
+    
+    <lastmod>2026-03-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://aimagicat.icu/p/ai-comic/lingyi-daily/lingyi-daily-01-xigua-yinmou.html</loc>
+    
+    <lastmod>2026-03-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://aimagicat.icu/p/reverse/apk-location-permission-inject.html</loc>
+    
+    <lastmod>2026-03-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://aimagicat.icu/p/jianbihua/jianying-script-and-editing.html</loc>
     
     <lastmod>2026-03-07</lastmod>
@@ -58,7 +103,7 @@
 
   <url>
     <loc>https://aimagicat.icu/</loc>
-    <lastmod>2026-03-07</lastmod>
+    <lastmod>2026-03-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>

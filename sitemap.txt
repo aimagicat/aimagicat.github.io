@@ -1,3 +1,8 @@
+https://aimagicat.icu/p/ai-comic/creation-notes/replicate-lingyi-workflow.html
+https://aimagicat.icu/p/ai-comic/creation-notes/lingyi-yaml-script.html
+https://aimagicat.icu/p/ai-comic/creation-notes/lingyi-reference-to-storyboard.html
+https://aimagicat.icu/p/ai-comic/lingyi-daily/lingyi-daily-01-xigua-yinmou.html
+https://aimagicat.icu/p/reverse/apk-location-permission-inject.html
 https://aimagicat.icu/p/jianbihua/jianying-script-and-editing.html
 https://aimagicat.icu/p/side-hustle/coze-to-n8n-workflow-migration.html
 https://aimagicat.icu/p/side-hustle/mobile-task-apps.html
